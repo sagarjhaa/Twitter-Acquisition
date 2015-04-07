@@ -1,0 +1,16 @@
+../dbf/__init__.py
+../dbf/tests.py
+../dbf/ver_2.py
+../dbf/ver_32.py
+../dbf/ver_33.py
+../dbf/__init__.pyc
+../dbf/tests.pyc
+../dbf/ver_2.pyc
+../dbf/ver_32.pyc
+../dbf/ver_33.pyc
+./
+dependency_links.txt
+PKG-INFO
+requires.txt
+SOURCES.txt
+top_level.txt
